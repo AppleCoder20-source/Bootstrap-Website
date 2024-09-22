@@ -1,0 +1,54 @@
+#center{
+    text-align: center;
+}
+.chart{
+    width:100%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+table {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+caption {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+    font-weight: bold;
+}
+thead {
+    background-color: #0061df;
+    color: white;
+}
+th, td {
+    padding: 12px 15px;
+    text-align: center;
+    border: 1px solid #dddddd;
+}
+
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
+tfoot td {
+    font-weight: bold;
+    background-color: #f2f2f2;
+}
+.action-button {
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+.edit-button {
+    background-color: #4CAF50;
+}
+.delete-button {
+    background-color: #f44336;
+}
