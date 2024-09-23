@@ -17,7 +17,5 @@ Visit Bootstrap documenation for any assistance!
 ```
 
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
 *Referenced some  Graphs from Bootstrap Brain 
 * Used Boostrap Documentation 
